@@ -14,6 +14,6 @@ I am not an expert at anything, I wouldn't say. But I am more than thrilled to l
   <p>
     Hello! I am Adriana, a Software Engineering student from Costa Rica.
   </p>
-  <h3>Still learning: </h3>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,dotnet,firebase,jquery,mysql,postman,react,tailwind,unity,vite)](https://skillicons.dev)
+  <h3>I have some experience with these technologies: </h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,java,cs,dotnet,firebase,jquery,mysql,postman,react,tailwind,unity,vite" alt="My Skills"></a>   </p>
 </div>
